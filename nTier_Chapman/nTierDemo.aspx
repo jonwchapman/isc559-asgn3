@@ -1,6 +1,6 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="NtierDemo.aspx.cs" Inherits="nTier_Chapman.NtierDemo" %>
 
-<!DOCTYPE html>
+<!DOCTYPE html> 
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
@@ -20,7 +20,7 @@
         <br />
         <asp:ListBox ID="lbJobList" runat="server" style="z-index: 1; left: 321px; top: 90px; position: absolute; height: 64px"></asp:ListBox>
         <br />
-        <br />
+        
     
     </div>
     </form>
